@@ -1,3 +1,4 @@
+# チームB専用
 # VEE-REAL
 
 シンプルな画像共有掲示板 (BeReal 風)。Hono + better-sqlite3 + jQuery/Fancybox の MPA。
